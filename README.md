@@ -10,4 +10,4 @@ This repository contains code implementations for illustrating concepts from two
 - Training_GPT2.ipynb: Jupyter notebook containing code for training the GPT-2 model.
 - Perplexity.ipynb: Jupyter notebook containing code for a radom evaluation of perplexity.
 - Example_train.txt: Text file used for training the model.
-PDFs of both research papers for reference.
+- PDFs of both research papers for reference.
